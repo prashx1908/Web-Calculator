@@ -11,23 +11,14 @@ body{
 
 }
 p{
-    position: relative;
-    height: 10%;
-    margin-left: 70%;
     font-family: 'copperplate';
-    align-items: flex-end;
-    font-size:larger;
-    color: #b9e8fd ;
-
+    color: #97daf9;
+    
 }
 h1{
-    position: fixed;
-    height: 10%;
-    max-width:max-content;
-    align items: flex-end;
-    margin-left: 42%;
+    position: relative;
     font-family: 'copperplate';
-    color: #88d0f2 ;
+    color: #97daf9 ;
 }
 a{
     text-decoration: none;
